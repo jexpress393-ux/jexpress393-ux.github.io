@@ -1,9 +1,8 @@
-
 [{
       "relation": ["delegate_permission/common.handle_all_urls"],
       "target": {
         "namespace": "android_app",
         "package_name": "io.github.jexpress393_ux.twa",
-        "sha256_cert_fingerprints": ["4D:6F:17:EC:1D:E7:B1:7D:CF:6E:E0:E0:20:CE:91:4E:22:3D:A3:69:E3:1D:1B:96:38:02:E5:6A:85:E8:B8:D3"]
+        "sha256_cert_fingerprints": ["A7:74:A8:A6:9B:E1:B6:C9:DF:60:53:B7:98:9D:33:EE:BC:9C:12:FA:FA:C0:D2:F1:61:8A:BD:54:E4:A3:B8:72"]
       }
     }]

@@ -1,0 +1,9 @@
+
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "io.github.jexpress393_ux.twa",
+        "sha256_cert_fingerprints": ["4D:6F:17:EC:1D:E7:B1:7D:CF:6E:E0:E0:20:CE:91:4E:22:3D:A3:69:E3:1D:1B:96:38:02:E5:6A:85:E8:B8:D3"]
+      }
+    }]

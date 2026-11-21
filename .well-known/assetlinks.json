@@ -3,6 +3,6 @@
       "target": {
         "namespace": "android_app",
         "package_name": "io.github.jexpress393_ux.twa",
-        "sha256_cert_fingerprints": ["A7:74:A8:A6:9B:E1:B6:C9:DF:60:53:B7:98:9D:33:EE:BC:9C:12:FA:FA:C0:D2:F1:61:8A:BD:54:E4:A3:B8:72"]
+        "sha256_cert_fingerprints": ["8A:C9:2D:A4:37:62:15:F1:5C:9C:A2:F9:F9:01:03:3E:A0:4D:C0:E1:7B:8C:CF:DB:8B:76:EA:85:BA:1C:B8:BB"]
       }
     }]
